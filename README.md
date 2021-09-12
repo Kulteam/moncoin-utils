@@ -3,12 +3,6 @@
 
 [![NPM](https://nodei.co/npm/moncoin-utils.png?downloads=true&stars=true)](https://nodei.co/npm/moncoin-utils/)
 
-#### Master Build Status
-[![Build Status](https://github.com/Kulteam/moncoin-utils/workflows/CI%20Build%20Tests/badge.svg?branch=master)](https://github.com/Kulteam/moncoin-utils/actions)
-
-#### Development Build Status
-[![Build Status](https://github.com/Kulteam/moncoin-utils/workflows/CI%20Build%20Tests/badge.svg?branch=development)](https://github.com/Kulteam/moncoin-utils/actions)
-
 This package contains code that wraps [moncoin-crypto](https://github.com/Kulteam/moncoin-crypto) primitives into an easier to use interface. This includes the ability to easily discover funds for a wallet, create transactions, sign transactions (ring signatures), create new wallets, verify addresses, and handful of other useful methods. These methods can then be wrapped into a Javascript-based wallet such as [MONCoin-wallet-backend-js](https://github.com/Kulteam/MONCoin-wallet-backend-js).
 
 If you experience any issues with this library, the best way to address such situations is to submit a Pull Request to resolve the issue you are running into.
@@ -52,7 +46,7 @@ When packing for the browser with a tool like [webpack](https://webpack.js.org/)
 
 ### Documentation
 
-You can find the full documentation for this library [here](https://utils.MONCoin.dev)
+You can find the full documentation for this library [here](https://moncoin.io)
 
 ### Credits
 
