@@ -1,10 +1,7 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
 
 # MONCoin Javascript Utilities
 
 [![NPM](https://nodei.co/npm/moncoin-utils.png?downloads=true&stars=true)](https://nodei.co/npm/moncoin-utils/)
-
-![Prerequisite](https://img.shields.io/badge/node-%3E%3D6-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://utils.MONCoin.dev) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Kulteam/moncoin-utils/graphs/commit-activity) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)](https://github.com/Kulteam/moncoin-utils/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/_MONCoin.svg?style=social)](https://twitter.com/_MONCoin)
 
 #### Master Build Status
 [![Build Status](https://github.com/Kulteam/moncoin-utils/workflows/CI%20Build%20Tests/badge.svg?branch=master)](https://github.com/Kulteam/moncoin-utils/actions)
